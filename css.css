@@ -1,0 +1,29 @@
+main {
+  background-color: aqua;
+  height: 300px;
+  margin: 20px;
+}
+section {
+  width: 190px;
+  height: 260px;
+  margin: 15px auto;
+  background-color: beige;
+  border-radius: 10px;
+}
+img {
+  display: inline-block;
+  margin: 10px 25px 10px 25px;
+  width: 140px;
+  height: auto;
+}
+
+.bold {
+  font-size: small;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+p {
+  margin: -5px 10px 10px 10px;
+  font-size: 13px;
+}
